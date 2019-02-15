@@ -1,0 +1,17 @@
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\RestApi.exe.config
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\RestApi.exe
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\RestApi.pdb
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\nunit.framework.dll
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\nunit.framework.pdb
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\nunit.framework.xml
+D:\c#projects\2017\RestApi\RestApi\obj\Debug\RestApi.csproj.CoreCompileInputs.cache
+D:\c#projects\2017\RestApi\RestApi\obj\Debug\RestApi.csproj.CopyComplete
+D:\c#projects\2017\RestApi\RestApi\obj\Debug\RestApi.exe
+D:\c#projects\2017\RestApi\RestApi\obj\Debug\RestApi.pdb
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\System.Security.AccessControl.dll
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\System.Security.Permissions.dll
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\System.Security.Principal.Windows.dll
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\Newtonsoft.Json.dll
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\Newtonsoft.Json.pdb
+D:\c#projects\2017\RestApi\RestApi\bin\Debug\Newtonsoft.Json.xml
